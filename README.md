@@ -7,6 +7,8 @@
 
 ![PerivaldoE GitHub stats](https://github-readme-stats.vercel.app/api?username=PerivaldoE&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerivaldoE)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que estou aprendendo👨🏾‍💻
 
 <div style="display: inline_block"><br/>
