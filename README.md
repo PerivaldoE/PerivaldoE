@@ -19,4 +19,4 @@
 </div><br/>
 
 Sempre estou buscando conhecimentos na área tecnológica para aprimorar o meu desenvolvimento com êxito.
-Atualmente, estou disponivel para exercer o meu aprendizado alcançado até aqui.
+Atualmente, estou disponível para exercer o meu aprendizado alcançado até aqui.
