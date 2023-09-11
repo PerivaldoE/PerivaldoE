@@ -18,6 +18,5 @@
     <img align="center" alt="AMAZON AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div><br/>
 
-Buscando conhecer e me desenvolver a cada dia mais no mundo da tecnologia.
-Busco também uma oportunidade de exercer o meu aprendizado.
-Trabalho atualemnte em outra área profissional.
+Sempre estou buscando conhecimentos na área tecnológica para aprimorar o meu desenvolvimento com êxito.
+Atualmente, estou disponivel para exercer o meu aprendizado alcançado até aqui.
