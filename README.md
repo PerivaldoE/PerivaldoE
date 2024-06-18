@@ -18,5 +18,4 @@
     <img align="center" alt="AMAZON AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div><br/>
 
-Sempre estou buscando conhecimentos na área tecnológica para aprimorar o meu desenvolvimento com êxito.
-Atualmente, estou disponível para exercer o meu aprendizado alcançado até aqui.
+studante de Análise e Desenvolvimento de Sistemas | Apaixonado por Tecnologia e Inovação | Futuro Desenvolvedor de Software
