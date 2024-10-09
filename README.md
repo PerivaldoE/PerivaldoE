@@ -19,4 +19,4 @@
     <img align="center" alt="PYTHON" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </div><br/>
 
-Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por Tecnologia e Inovação | Futuro Desenvolvedor de Software
+Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor full stack em formação | HTML | CSS | Python
